@@ -42,6 +42,7 @@ ul {
 }
 .nav__item {
     -webkit-box-flex: 1;
+    
     flex: 1;
     position: relative;
     -webkit-transition: all 0.45s cubic-bezier(0.23, 1, 0.32, 1);
